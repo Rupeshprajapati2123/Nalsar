@@ -1,0 +1,52 @@
+.create-page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 44px;
+  padding: 40px;
+}
+.create-input {
+  width: 60vw;
+  padding: 8px;
+  color: #68202c;
+  font-family: Poppins;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+  border: 1px solid #68202c;
+}
+.imageupload {
+  height: 300px;
+  width: 600px;
+}
+.create-label {
+  color: #68202c;
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+}
+.create-input-flex {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.create-input-small {
+  width: 30vw;
+  padding: 8px;
+  color: #68202c;
+  font-family: Poppins;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px; /* 155.556% */
+  border: 1px solid #68202c;
+}
+.create-tag-input-flex {
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
+}

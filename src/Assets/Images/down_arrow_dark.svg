@@ -1,0 +1,15 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="keyboard_arrow_down" clip-path="url(#clip0_134_1839)">
+<mask id="mask0_134_1839" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-4" y="-4" width="24" height="24">
+<rect id="Bounding box" x="-4" y="-4" width="24" height="24" fill="white"/>
+</mask>
+<g mask="url(#mask0_134_1839)">
+<path id="keyboard_arrow_down_2" d="M8 11.4L2 5.4L3.4 4L8 8.6L12.6 4L14 5.4L8 11.4Z" fill="#68202C"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_134_1839">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
